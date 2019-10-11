@@ -1,0 +1,12 @@
+/*
+ Övning 4.2
+ Skapat 2019-10-03
+ Programmerare Alexander jonsson näslund
+*/
+import javax.swing.*;
+import java.util.Scanner;
+
+public class uppgift_51 { 
+	public static void main(String[] args) {
+	
+	}
